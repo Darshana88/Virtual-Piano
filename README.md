@@ -32,4 +32,6 @@ You can customize this virtual piano by modifying the following files:
 
 **_script.js:_** Modify the piano notes or add additional features.
 
+
 Feel free to explore and make it your own!
+
