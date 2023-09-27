@@ -19,7 +19,7 @@ Easy customization.
 
 **How to Play**
 
-**_Keyboard Mode:_** You can play the virtual piano using your computer keyboard. The keys 'A' to ';' represent the white keys, and 'W' to ']' represent the black keys. Simply press the corresponding keys to play the piano notes.
+**_Keyboard Mode:_** You can play the virtual piano using your computer keyboard. Simply press the 'A' to 'Z' keys to play the piano notes.
 
 
 **_Mouse Mode:_** You can also click on the virtual piano keys with your mouse to play the notes.
