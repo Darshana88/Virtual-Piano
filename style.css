@@ -1,0 +1,139 @@
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: rgb(53,133,139);
+    background: linear-gradient(0deg, rgba(53,133,139,1) 0%, rgba(7,34,39,1) 100%);
+    background-attachment: fixed;
+    margin-top: 12%;
+}
+
+.wrapper{
+    padding: 1rem;
+    position: relative;
+    left: 18%;
+    background-color: black;
+    height: 300px;
+    width: 900px;
+    top: 50px;
+}
+
+h1{
+    color: #35858B;
+    text-align: center;
+    font-family: 'Tangerine', cursive;
+    
+    text-shadow: 3px 0 #AEFEFF;
+    
+}
+
+#VP{
+    margin-top: 70px;
+    font-size: 70px;
+}
+
+button{
+    width: 55px;
+    height: 200px;
+    border-radius: 5px;
+    border: 1px solid;  
+    color: black;
+    box-shadow: 2px 3px 4px 0 black;
+}
+
+#pianos{
+    display: flex;
+    justify-content: center;
+    padding: 0.3rem;
+    position: relative;
+    height: 100%;
+    align-items: center;
+    
+    
+}
+
+.piano{
+    background-color: white;
+    border: 1px solid black;
+    width: 50px;
+    height: 100%;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    box-shadow: 0 2px 3px 0 white;
+    color: white;
+ 
+}
+
+#A0{
+    border-top-left-radius: 8px;
+}
+
+#A17{
+    border-top-right-radius: 8px;
+}
+
+.blackbtn{
+
+    position: absolute;
+    top: 10%;
+    left: 3.2%;
+    display: flex;
+    height: 40%;
+    padding: 0.3rem;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+
+
+}
+
+.blckbtn{
+    height: 150px;
+    width: 36px;
+    background-color: black;
+    border: 1px solid black;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    border-top: none;
+    box-shadow: 0 2px 4px 0 black;
+    color: black;
+
+}
+
+#A20{
+    margin-left: 50px;
+}
+
+#A23{
+    margin-left: 48px;
+}
+
+#A25{
+    margin-left: 48px;
+}
+
+#A28{
+    margin-left: 47px;
+}
+
+
+
+
+
+.pressed{
+    box-shadow: 0 3px 4px 0 #000000;
+    opacity: 0.5;
+}
+
+
+
+footer{
+    font-family: 'Kaushan Script', cursive;
+    color: #AEFEFF;
+    text-align: center;
+    margin-top: 110px;
+}
